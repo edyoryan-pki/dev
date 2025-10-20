@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+    {
   "data": [
     {
       "Project Code": "R0639",
@@ -36,5 +39,8 @@
       "phaseCode": "UNKNOWN",
       "category": "cat3"
     }
+  ]
+}
+
   ]
 }
