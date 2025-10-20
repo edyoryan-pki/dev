@@ -1,31 +1,14 @@
 {
   "data": [
     {
-      "Project Code": "PRJ001",
-      "Project Name": "BPD Core Function",
-      "Dx Title": "UNKNOWN",
-      "Dx Name": "UNKNOWN",
-      "Project Status": "ACTIVE",
-      "Programme Category": "FBP",
-      "Project Phase": "UNKNOWN"
-    },
-    {
-      "Project Code": "PRJ002",
-      "Project Name": "AAV341",
-      "Dx Title": "UNKNOWN",
-      "Dx Name": "UNKNOWN",
-      "Project Status": "CLOSED",
-      "Programme Category": "FBP",
-      "Project Phase": "UNKNOWN"
-    },
-    {
-      "Project Code": "PRJ003",
-      "Project Name": "Breast Tumour Council",
+      "userCode": "1",
+      "userName": "edy@rev.com",
       "Dx Title": "UNKNOWN",
       "Dx Name": "UNKNOWN",
       "Project Status": "ACTIVE",
       "Programme Category": "FBP",
       "Project Phase": "UNKNOWN"
     }
+    
   ]
 }
