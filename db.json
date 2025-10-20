@@ -1,15 +1,40 @@
 {
-  "posts": [
-
+  "data": [
     {
-      "data": [
-        {
-          "text": "2",
-          "value": "ed@rev.com",
-          "value2": "33"
-        }
-      ]
+      "Project Code": "R0639",
+      "Project Name": "AAVF21 | AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseases",
+      "Dx Name": "Project Name4",
+      "Dx Title": "AAV FGF21 - Transforming the chronic delivery of therapeutic proteins for metabolic diseasessd",
+      "status": "Closed",
+      "phaseCode": null,
+      "category": "Unknown"
+    },
+    {
+      "Project Code": "R0715102",
+      "Project Name": "AmyRsm | Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
+      "Dx Name": null,
+      "Dx Title": "Development of an oral AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
+      "status": "Active",
+      "phaseCode": "TV5",
+      "category": "cat2"
+    },
+    {
+      "Project Code": "R0000",
+      "Project Name": "AmylinR agonist small molecule allows for FDC oral small molecule therapies with the ability to have bariatric surgery-like weight loss from a well-tolerated oral therapy with end organ protection.",
+      "Dx Name": null,
+      "Dx Title": "Developmentof small molecule412.",
+      "status": "Closed",
+      "phaseCode": "UNKNOWN",
+      "category": "FBP"
+    },
+    {
+      "Project Code": "R0001",
+      "Project Name": "Well-tolerated oral therapy with end organ protection.",
+      "Dx Name": "Dx Name",
+      "Dx Title": "Developmentof small molecule.",
+      "status": "Active",
+      "phaseCode": "UNKNOWN",
+      "category": "cat3"
     }
-
   ]
 }
