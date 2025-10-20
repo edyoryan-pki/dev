@@ -1,10 +1,13 @@
-  "data": [{
+{
   "data": [
     {
-      "text": "1",
-      "value": "ed@ed.com",
-      "value2": "val2"
+      "data": [
+        {
+          "text": "1",
+          "value": "ed@ed.com",
+          "value2": "val2"
+        }
+      ]
     }
   ]
 }
-  ]
