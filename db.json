@@ -1,8 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "usermail": "ed@rev.com"
+         "data": [
+  {
+   "id": 1,
+    "usermail": "ed@rev.com"
+  }
+]
     }
   ],
   "profile":{"name":"Edz"}
